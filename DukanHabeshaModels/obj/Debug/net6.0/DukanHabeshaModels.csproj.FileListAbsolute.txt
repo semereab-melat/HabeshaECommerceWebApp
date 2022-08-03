@@ -1,0 +1,14 @@
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\bin\Debug\net6.0\DukanHabeshaModels.deps.json
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\bin\Debug\net6.0\DukanHabeshaModels.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\bin\Debug\net6.0\DukanHabeshaModels.pdb
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\DukanHabeshaModels.csproj.AssemblyReference.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\DukanHabeshaModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\DukanHabeshaModels.AssemblyInfoInputs.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\DukanHabeshaModels.AssemblyInfo.cs
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\DukanHabeshaModels.csproj.CoreCompileInputs.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\DukanHabeshaModels.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\refint\DukanHabeshaModels.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\DukanHabeshaModels.pdb
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\ref\DukanHabeshaModels.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\bin\Debug\net6.0\DukanHabeshaModels.runtimeconfig.json
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaModels\obj\Debug\net6.0\DukanHabeshaModels.genruntimeconfig.cache

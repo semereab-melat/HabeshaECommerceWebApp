@@ -1,0 +1,17 @@
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\bin\Debug\net6.0\DukanHabeshaDataAccess.deps.json
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\bin\Debug\net6.0\DukanHabeshaDataAccess.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\bin\Debug\net6.0\DukanHabeshaDataAccess.pdb
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\bin\Debug\net6.0\DukanHabeshaModels.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\bin\Debug\net6.0\DukanHabeshaModels.pdb
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.csproj.AssemblyReference.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.AssemblyInfoInputs.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.AssemblyInfo.cs
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.csproj.CopyComplete
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\refint\DukanHabeshaDataAccess.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.pdb
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\ref\DukanHabeshaDataAccess.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\bin\Debug\net6.0\DukanHabeshaDataAccess.runtimeconfig.json
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaDataAccess\obj\Debug\net6.0\DukanHabeshaDataAccess.genruntimeconfig.cache

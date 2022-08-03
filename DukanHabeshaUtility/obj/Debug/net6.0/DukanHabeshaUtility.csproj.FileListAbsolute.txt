@@ -1,0 +1,12 @@
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\bin\Debug\net6.0\DukanHabeshaUtility.deps.json
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\bin\Debug\net6.0\DukanHabeshaUtility.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\bin\Debug\net6.0\DukanHabeshaUtility.pdb
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\DukanHabeshaUtility.csproj.AssemblyReference.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\DukanHabeshaUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\DukanHabeshaUtility.AssemblyInfoInputs.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\DukanHabeshaUtility.AssemblyInfo.cs
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\DukanHabeshaUtility.csproj.CoreCompileInputs.cache
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\DukanHabeshaUtility.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\refint\DukanHabeshaUtility.dll
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\DukanHabeshaUtility.pdb
+C:\Users\melat\OneDrive\Desktop\final_Project\sourceCode\HabeshaEcommerceWeb\DukanHabeshaUtility\obj\Debug\net6.0\ref\DukanHabeshaUtility.dll
