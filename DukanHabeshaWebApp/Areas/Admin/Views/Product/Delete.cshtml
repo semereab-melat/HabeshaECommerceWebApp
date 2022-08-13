@@ -1,0 +1,64 @@
+﻿@model Product
+
+<form method="post" asp-action="Delete">
+    <input asp-for="Id" hidden />
+    
+    <div class="row">
+    <div class="col-10">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary"> Delete Product</h2>
+           <hr />
+        </div>
+        @*<div asp-validation-summary="All"></div>*@
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" disabled class="form-control" />
+            
+        </div> 
+         <div class="mb-3">
+            <label asp-for="Description"></label>
+            <input asp-for="Description" disabled class="form-control" />
+            
+        </div> 
+         <div class="mb-3">
+            <label asp-for="Price"></label>
+            <input asp-for="Price" disabled class="form-control" />
+            
+        </div> 
+        @* <div class="mb-3">
+            <label asp-for="@Model.CategoryId"></label>
+            <input asp-for="@Model.Category.Name" disabled class="form-control" />           
+        </div>
+        
+         <div class="mb-3">
+            <label asp-for="@Model.origin.OriginCountry"></label>
+            <input asp-for="@Model.origin.OriginCountry" disabled class="form-control" />
+        </div> *@
+        
+        <button type="submit" class="btn btn-danger" style="width: 150px" >Delete </button>
+            <a asp-controller="product" asp-action="Index" class="btn btn-secondary" style="width:150px">
+            Back to List</a>
+   
+</div>
+</div>
+
+<div class="col-2 pt-4">
+			<img src="@Model.ImageUrl"
+			width="100%" style="border-radius:5px; border:1px solid #bbb9b9" />
+		</div>
+</div>
+</form>
+
+
+
+
+@*This helps to include the input validiation in the page and doesnt need to send the validiation request to server if its empty*@
+@section Scripts
+{
+    @{
+          <partial name="_ValidationScriptsPartial" />
+    }
+
+}
+

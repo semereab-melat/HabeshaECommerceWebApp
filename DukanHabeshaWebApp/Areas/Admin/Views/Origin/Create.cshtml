@@ -1,0 +1,33 @@
+﻿@model Origin
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Country Made</h2>
+           <hr />
+        </div>
+        @*<div asp-validation-summary="All"></div>*@
+        <div class="mb-3">
+            <label asp-for="OriginCountry"></label>
+            <input asp-for="OriginCountry" class="form-control" />
+            <span asp-validation-for="OriginCountry" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="width: 150px" >Create </button>
+            <a asp-controller="Origin" asp-action="Index" class="btn btn-secondary" style="width:150px">
+            Back to List</a>
+    </div>
+
+</form>
+
+
+@*This helps to include the input validiation in the page and doesnt need to send the validiation request to server if its empty*@
+@section Scripts
+{
+    @{
+          <partial name="_ValidationScriptsPartial" />
+    }
+
+}
+
+

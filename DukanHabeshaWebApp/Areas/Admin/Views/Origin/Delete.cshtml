@@ -1,0 +1,34 @@
+﻿@model Origin
+
+<form method="post" asp-action="Delete">
+    <input asp-for="Id" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary"> Delete Country Origin</h2>
+           <hr />
+        </div>
+        @*<div asp-validation-summary="All"></div>*@
+        <div class="mb-3">
+            <label asp-for="OriginCountry"></label>
+            <input asp-for="OriginCountry" disabled class="form-control" />
+            
+        </div>  
+        
+        <button type="submit" class="btn btn-danger" style="width: 150px" >Delete </button>
+            <a asp-controller="Origin" asp-action="Index" class="btn btn-secondary" style="width:150px">
+            Back to List</a>
+   
+</div>
+</form>
+
+
+@*This helps to include the input validiation in the page and doesnt need to send the validiation request to server if its empty*@
+@section Scripts
+{
+    @{
+          <partial name="_ValidationScriptsPartial" />
+    }
+
+}
+
+
