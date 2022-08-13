@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eDhebmePRkSCdr4HigcBIAxvs5duI6h2WAAvizAaAtw=",
+  "Hash": "K/JL90lA9N7wlOjdhq0W9tnkEWtBa/n2MnIdBNi9aVo=",
   "Source": "DukanHabeshaWebApp",
   "BasePath": "_content/DukanHabeshaWebApp",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "DukanHabeshaWebApp\\wwwroot",
       "Source": "DukanHabeshaWebApp",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\melat\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DukanHabeshaWebApp.styles.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DukanHabeshaWebApp.styles.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "DukanHabeshaWebApp.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DukanHabeshaWebApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DukanHabeshaWebApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DukanHabeshaWebApp.bundle.scp.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DukanHabeshaWebApp.bundle.scp.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "DukanHabeshaWebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DukanHabeshaWebApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DukanHabeshaWebApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\css\\bootswatchTheme.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\css\\bootswatchTheme.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "css/bootswatchTheme.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\css\\site.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\favicon.ico",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\lawn_leaf.jpg",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\lawn_leaf.jpg",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/lawn_leaf.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\16eecc41-20a6-425c-a22b-8544d6b72e7e.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\16eecc41-20a6-425c-a22b-8544d6b72e7e.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/16eecc41-20a6-425c-a22b-8544d6b72e7e.webp",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\16eecc41-20a6-425c-a22b-8544d6b72e7e.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\24d147d2-17b9-4501-bfad-e2f6f92f2fa6.jpg",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\24d147d2-17b9-4501-bfad-e2f6f92f2fa6.jpg",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/24d147d2-17b9-4501-bfad-e2f6f92f2fa6.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\24d147d2-17b9-4501-bfad-e2f6f92f2fa6.jpg"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\29e068ed-6680-4a33-a23a-c5a7277223ea.png",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\29e068ed-6680-4a33-a23a-c5a7277223ea.png",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/29e068ed-6680-4a33-a23a-c5a7277223ea.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\29e068ed-6680-4a33-a23a-c5a7277223ea.png"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\2b047bf1-0104-46cc-856a-1a98e79ce501.jpg",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\2b047bf1-0104-46cc-856a-1a98e79ce501.jpg",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/2b047bf1-0104-46cc-856a-1a98e79ce501.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\2b047bf1-0104-46cc-856a-1a98e79ce501.jpg"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\3147a9f8-5cf3-4294-9715-320aa55167d9.png",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\3147a9f8-5cf3-4294-9715-320aa55167d9.png",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/3147a9f8-5cf3-4294-9715-320aa55167d9.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\3147a9f8-5cf3-4294-9715-320aa55167d9.png"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\49b9a90b-8cfe-4e74-b987-3d22b8484a25.jfif",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\49b9a90b-8cfe-4e74-b987-3d22b8484a25.jfif",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/49b9a90b-8cfe-4e74-b987-3d22b8484a25.jfif",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\49b9a90b-8cfe-4e74-b987-3d22b8484a25.jfif"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\4d2afd2e-b971-49b9-b93e-e6a61ff8d7e7.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\4d2afd2e-b971-49b9-b93e-e6a61ff8d7e7.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/4d2afd2e-b971-49b9-b93e-e6a61ff8d7e7.webp",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\4d2afd2e-b971-49b9-b93e-e6a61ff8d7e7.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\6390fa44-7833-4e2c-af73-2dc7999113fd.png",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\6390fa44-7833-4e2c-af73-2dc7999113fd.png",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/6390fa44-7833-4e2c-af73-2dc7999113fd.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\6390fa44-7833-4e2c-af73-2dc7999113fd.png"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\69f0c22d-7286-4352-80d9-b0afbd6b25da.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\69f0c22d-7286-4352-80d9-b0afbd6b25da.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/69f0c22d-7286-4352-80d9-b0afbd6b25da.webp",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\69f0c22d-7286-4352-80d9-b0afbd6b25da.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\7f96b1f0-7840-4e14-8091-d8ca635e8227.jfif",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\7f96b1f0-7840-4e14-8091-d8ca635e8227.jfif",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/7f96b1f0-7840-4e14-8091-d8ca635e8227.jfif",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\7f96b1f0-7840-4e14-8091-d8ca635e8227.jfif"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\8d69ee63-fb47-4e06-95de-260f39994c35.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\8d69ee63-fb47-4e06-95de-260f39994c35.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/8d69ee63-fb47-4e06-95de-260f39994c35.webp",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\8d69ee63-fb47-4e06-95de-260f39994c35.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\8ebc71fc-09c2-4457-9e8a-02d1a2282fca.png",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\8ebc71fc-09c2-4457-9e8a-02d1a2282fca.png",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/8ebc71fc-09c2-4457-9e8a-02d1a2282fca.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\8ebc71fc-09c2-4457-9e8a-02d1a2282fca.png"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\9b662327-6279-4475-bf60-2fbf2d830a7e.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\9b662327-6279-4475-bf60-2fbf2d830a7e.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/9b662327-6279-4475-bf60-2fbf2d830a7e.webp",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\9b662327-6279-4475-bf60-2fbf2d830a7e.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\bfd46f4a-c2ae-4564-a572-66bc0e515411.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\bfd46f4a-c2ae-4564-a572-66bc0e515411.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/bfd46f4a-c2ae-4564-a572-66bc0e515411.webp",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\bfd46f4a-c2ae-4564-a572-66bc0e515411.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\c3348677-6df4-4718-a9f8-30f876612d49.png",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\c3348677-6df4-4718-a9f8-30f876612d49.png",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/c3348677-6df4-4718-a9f8-30f876612d49.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\c3348677-6df4-4718-a9f8-30f876612d49.png"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\e3e112d3-530c-4c73-acad-cf8dbf04ad05.jpg",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\e3e112d3-530c-4c73-acad-cf8dbf04ad05.jpg",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/e3e112d3-530c-4c73-acad-cf8dbf04ad05.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\e3e112d3-530c-4c73-acad-cf8dbf04ad05.jpg"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\e73b9cc0-9b72-4f11-beab-11828bd4da44.jfif",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\e73b9cc0-9b72-4f11-beab-11828bd4da44.jfif",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/e73b9cc0-9b72-4f11-beab-11828bd4da44.jfif",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\e73b9cc0-9b72-4f11-beab-11828bd4da44.jfif"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\e814368c-b1c3-4ab0-9343-35a741f188da.jfif",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\e814368c-b1c3-4ab0-9343-35a741f188da.jfif",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/e814368c-b1c3-4ab0-9343-35a741f188da.jfif",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\e814368c-b1c3-4ab0-9343-35a741f188da.jfif"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\e8cb855c-7c7f-4ecd-83f8-dc3f274a6509.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\e8cb855c-7c7f-4ecd-83f8-dc3f274a6509.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/e8cb855c-7c7f-4ecd-83f8-dc3f274a6509.webp",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\e8cb855c-7c7f-4ecd-83f8-dc3f274a6509.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\ee86922e-f359-489e-89a8-2a206ff2c1c7.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\ee86922e-f359-489e-89a8-2a206ff2c1c7.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/ee86922e-f359-489e-89a8-2a206ff2c1c7.webp",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ee86922e-f359-489e-89a8-2a206ff2c1c7.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\ef2d52fe-17bc-4657-88dc-eca1e63bb145.webp",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\ef2d52fe-17bc-4657-88dc-eca1e63bb145.webp",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/ef2d52fe-17bc-4657-88dc-eca1e63bb145.webp",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ef2d52fe-17bc-4657-88dc-eca1e63bb145.webp"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\images\\products\\f1c00d81-7c15-482a-bc4e-6fd188cf8d9f.png",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\images\\products\\f1c00d81-7c15-482a-bc4e-6fd188cf8d9f.png",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "images/products/f1c00d81-7c15-482a-bc4e-6fd188cf8d9f.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\f1c00d81-7c15-482a-bc4e-6fd188cf8d9f.png"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\js\\order.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\js\\order.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "js/order.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\js\\product.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\js\\product.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\js\\site.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "DukanHabeshaWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\FPP - Maharishi\\New folder (2)\\DukanHabeshaWebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\melat\\OneDrive\\Desktop\\HabehaWebApp\\DukanHabeshaWebApp\\wwwroot\\",
       "BasePath": "_content/DukanHabeshaWebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
