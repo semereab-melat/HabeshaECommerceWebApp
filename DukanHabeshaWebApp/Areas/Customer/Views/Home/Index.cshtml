@@ -43,7 +43,7 @@
                                 <div class="card-body">
                                             @*pl means padding left one*@
                                 <div class="pl-1">
-                                    <p class="card-title h5 text-primary">@product.Name.Substring(0, product.Name.Length < 12 ? product.Name.Length : 12)</p>
+                                    <p class="card-title h5 text-primary">@product.Name.Substring(0, product.Name.Length < 12 ? product.Name.Length : 15)...</p>
                                                 @* <p class="card-title text-info">@product.Description </p>*@
                                 </div>
                                             @if (@product.IsOnSale)
